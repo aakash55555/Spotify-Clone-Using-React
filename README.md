@@ -28,3 +28,4 @@
 ### Useful resources<br/>
 #### https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#
 #### https://create-react-app.dev/docs/getting-started/
+#### https://material-ui.com/components/material-icons/
