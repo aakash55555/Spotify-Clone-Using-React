@@ -1,0 +1,20 @@
+/*For placing item in the center spotify logo and login button*/
+.login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black
+}
+
+.login > img {/*image properties*/
+    width: 100%;
+}
+
+.login > a {/*changing properties of the button*/
+    padding: 20px;
+    border-radius: 99px;/*For making round button*/
+    background-color: #1db954;
+    font-weight: 800;/*For making bold*/
+    color: white;
+    text-decoration: none;/*Stop from having the underline when provide with the link*/
+}
